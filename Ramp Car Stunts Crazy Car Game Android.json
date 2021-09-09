@@ -15,7 +15,7 @@
   "ThirdPriorityLevelToLoading": "Unity",
   "FirstPriorityPause": "Admob",
   "SecondPriorityPause": "Unity",
-  "ThirdPriorityPause": "Admob",
+  "ThirdPriorityPause": "Facebook",
   "FirstPriorityLevelComplete": "Admob",
   "SecondPriorityLevelComplete": "Facebook",
   "ThirdPriorityLevelComplete": "Unity",
