@@ -21,6 +21,7 @@
   "SecondPriorityGamePlayToMainMenu": "Admob",
   "FirstPriorityRewarded": "Unity",
   "SecondPriorityRewarded": "Admob",
+  "ThirdPriorityRewarded": "AppLovin",
   "FirstPriorityBanner": "Admob",
   "SecondPriorityBanner": "Unity",
   "PlayButtonInstertitial": true,
