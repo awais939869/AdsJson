@@ -7,23 +7,23 @@
   "LevelCompletePanelNativeAd": true,
   "LevelFailPanelNativeAd": true,
   "ExitPanelNativeAd": true,
-  "FirstPriorityMainMenuToLevel": "AppLovin",
-  "SecondPriorityMainMenuToLevel": "Admob",
+  "FirstPriorityMainMenuToLevel": "Admob",
+  "SecondPriorityMainMenuToLevel": "AppLovin",
   "ThirdPriorityMainMenuToLevel": "Unity",
   "FirstPriorityLevelToLoading": "Admob",
   "SecondPriorityLevelToLoading": "AppLovin",
   "ThirdPriorityLevelToLoading": "Unity",
-  "FirstPriorityPause": "Admob",
+  "FirstPriorityPause": "Unity",
   "SecondPriorityPause": "AppLovin",
-  "ThirdPriorityPause": "Unity",
+  "ThirdPriorityPause": "Admob",
   "FirstPriorityLevelComplete": "Admob",
   "SecondPriorityLevelComplete": "AppLovin",
   "ThirdPriorityLevelComplete": "Unity",
-  "FirstPriorityLevelFail": "Admob",
-  "SecondPriorityLevelFail": "AppLovin",
-  "ThirdPriorityLevelFail": "Unity",
+  "FirstPriorityLevelFail": "AppLovin",
+  "SecondPriorityLevelFail": "Unity",
+  "ThirdPriorityLevelFail": "Admob",
   "FirstPriorityGamePlayToMainMenu": "Unity",
-  "SecondPriorityGamePlayToMainMenu": "Applovin",
+  "SecondPriorityGamePlayToMainMenu": "AppLovin",
   "ThirdPriorityGamePlayToMainMenu": "Admob",
   "FirstPriorityRewarded": "Unity",
   "SecondPriorityRewarded": "AppLovin",
@@ -50,4 +50,4 @@
 //use these for Priority no any other
 //Admob
 //Unity
-//Facebook
+//AppLovin
