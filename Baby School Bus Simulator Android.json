@@ -16,8 +16,8 @@
   "FirstPriorityPause": "Unity",
   "SecondPriorityPause": "AppLovin",
   "ThirdPriorityPause": "Admob",
-  "FirstPriorityLevelComplete": "Admob",
-  "SecondPriorityLevelComplete": "AppLovin",
+  "FirstPriorityLevelComplete": "AppLovin",
+  "SecondPriorityLevelComplete": "Admob",
   "ThirdPriorityLevelComplete": "Unity",
   "FirstPriorityLevelFail": "AppLovin",
   "SecondPriorityLevelFail": "Unity",
@@ -50,3 +50,4 @@
 //use these for Priority no any other
 //Admob
 //Unity
+//AppLovin
