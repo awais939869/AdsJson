@@ -1,5 +1,5 @@
 {
-  "FirstLoadingScreenNativeAd": true,
+  "FirstLoadingScreenNativeAd": false,
   "MainMenuScreenNativeAd": true,
   "CharacterSelectionScreenNativeAd": true,
   "SecondLoadingScreenNativeAd": true,
@@ -37,8 +37,8 @@
   "LevelCompleteInstertitial": true,
   "LevelFailInstertitial": true,
   "MainMenuInstertitial": true,
-  "GamePlayBanner": true,
-  "OtherBanner": true,
+  "GamePlayBanner": false,
+  "OtherBanner": false,
   "Rewarded": true,
   "CompaignName": "",
   "CompaignURL": "",
