@@ -1,6 +1,6 @@
 {
     "AdMob": {
-        "Banner": "true",
-        "Interstitial": "false"
+        "Banner": "false",
+        "Interstitial": "true"
     }
 }
