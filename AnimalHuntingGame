@@ -1,12 +1,4 @@
 {
-  "FirstLoadingScreenNativeAd": true,
-  "MainMenuScreenNativeAd": true,
-  "CharacterSelectionScreenNativeAd": true,
-  "SecondLoadingScreenNativeAd": true,
-  "PausePanelNativeAd": true,
-  "LevelCompletePanelNativeAd": true,
-  "LevelFailPanelNativeAd": true,
-  "ExitPanelNativeAd": true,
   "FirstPriorityMainMenuToLevel": "Unity",
   "SecondPriorityMainMenuToLevel": "AppLovin",
   "ThirdPriorityMainMenuToLevel": "Admob",
@@ -28,23 +20,19 @@
   "FirstPriorityRewarded": "Unity",
   "SecondPriorityRewarded": "AppLovin",
   "ThirdPriorityRewarded": "Admob",
-  "FirstPriorityBanner": "Admob",
-  "SecondPriorityBanner": "AppLovin",
-  "ThirdPriorityBanner": "Unity",
+  "FirstPriorityBanner": "Unity",
+  "SecondPriorityBanner": "Admob",
+  "FirstPrioritySmallBanner": "AppLovin",
+  "SecondPrioritySmallBanner": "Admob",
   "PlayButtonInstertitial": true,
   "LevelButtonInstertitial": true,
   "PauseButtonInstertitial": true,
   "LevelCompleteInstertitial": true,
   "LevelFailInstertitial": true,
   "MainMenuInstertitial": true,
-  "GamePlayBanner": true,
-  "OtherBanner": true,
-  "Rewarded": true,
-  "CompaignName": "",
-  "CompaignURL": "",
-  "CompaignImgURL": "",
-  "ShowCompaign": false,
-  "GPtoMM": false
+  "MainBanner": true,
+  "SmallBanner": true,
+  "Rewarded": true  
 }
 
 //use these for Priority no any other
