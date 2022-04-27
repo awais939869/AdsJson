@@ -1,6 +1,6 @@
 {
-  "FirstPriorityMainMenuToLevel": "Unity",
-  "SecondPriorityMainMenuToLevel": "AppLovin",
+  "FirstPriorityMainMenuToLevel": "AppLovin",
+  "SecondPriorityMainMenuToLevel": "Unity",
   "ThirdPriorityMainMenuToLevel": "Admob",
   "FirstPriorityLevelToLoading": "AppLovin",
   "SecondPriorityLevelToLoading": "Unity",
@@ -11,14 +11,14 @@
   "FirstPriorityLevelComplete": "AppLovin",
   "SecondPriorityLevelComplete": "Unity",
   "ThirdPriorityLevelComplete": "Admob",
-  "FirstPriorityLevelFail": "AppLovin",
-  "SecondPriorityLevelFail": "Unity",
+  "FirstPriorityLevelFail": "Unity",
+  "SecondPriorityLevelFail": "AppLovin",
   "ThirdPriorityLevelFail": "Admob",
-  "FirstPriorityGamePlayToMainMenu": "Unity",
-  "SecondPriorityGamePlayToMainMenu": "AppLovin",
+  "FirstPriorityGamePlayToMainMenu": "AppLovin",
+  "SecondPriorityGamePlayToMainMenu": "Unity",
   "ThirdPriorityGamePlayToMainMenu": "Admob",
-  "FirstPriorityRewarded": "AppLovin",
-  "SecondPriorityRewarded": "Unity",
+  "FirstPriorityRewarded": "Unity",
+  "SecondPriorityRewarded": "AppLovin",
   "ThirdPriorityRewarded": "Admob",
   "FirstPriorityBanner": "Unity",
   "SecondPriorityBanner": "Admob",
@@ -32,7 +32,7 @@
   "MainMenuInstertitial": true,
   "MainBanner": true,
   "SmallBanner": true,
-  "Rewarded": true  
+  "Rewarded": true   
 }
 
 //use these for Priority no any other
